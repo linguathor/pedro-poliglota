@@ -317,12 +317,6 @@ export default function PedroPoliglotaPage() {
                   </a>
                 </div>
 
-                <p className="text-xs sm:text-sm text-slate-500">
-                  Plazas limitadas • Cierra el domingo 18 de enero (23:59,
-                  Paraguay)
-                </p>
-              </div>
-
               <div className="bg-white/50 backdrop-blur-sm rounded-2xl md:rounded-3xl shadow-2xl border border-white/60 p-4 sm:p-6 md:p-8 hover:shadow-blue-200/50 transition-all duration-500 hover:scale-[1.02] group">
                 <div className="aspect-[3/4] rounded-xl md:rounded-2xl border-2 border-blue-200/50 relative overflow-hidden shadow-inner group-hover:shadow-blue-200 transition-shadow">
                   <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 z-10" />
