@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
@@ -106,7 +106,7 @@ export default function PedroPoliglotaPage() {
             >
               <div className="w-12 h-12 rounded-xl overflow-hidden relative">
                 <Image
-                  src="/pedro-poliglota/images/pedro.jpg"
+                  src="/images/pedro.jpg"
                   alt="Pedro - LanguagesPedro"
                   fill
                   className="object-cover"
@@ -247,8 +247,8 @@ export default function PedroPoliglotaPage() {
                     <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
                     <span className="relative inline-flex rounded-full h-2.5 w-2.5 md:h-3 md:w-3 bg-blue-500"></span>
                   </span>
-                  <span className="hidden sm:inline">Lanzamiento • Plazas limitadas • Cierre: 18 de enero</span>
-                  <span className="sm:hidden">Plazas limitadas • Cierre: 18/01</span>
+                  <span className="hidden sm:inline">Lanzamiento • Plazas limitadas • Cierre: este domingo</span>
+                  <span className="sm:hidden">Plazas limitadas • Cierre: este domingo</span>
                 </div>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-black leading-[1.1] mb-4 md:mb-6 bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 bg-clip-text text-transparent">
                   De cero a conversación en 90 días con mi método i²
@@ -327,7 +327,7 @@ export default function PedroPoliglotaPage() {
                 <div className="aspect-[3/4] rounded-xl md:rounded-2xl border-2 border-blue-200/50 relative overflow-hidden shadow-inner group-hover:shadow-blue-200 transition-shadow">
                   <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700 z-10" />
                   <Image
-                    src="/pedro-poliglota/images/pedro.jpg"
+                    src="/images/pedro.jpg"
                     alt="Pedro - Políglota y fundador de LanguagesPedro"
                     fill
                     className="object-cover"
@@ -773,9 +773,7 @@ export default function PedroPoliglotaPage() {
                   Inscríbete ahora (precio especial de lanzamiento)
                 </h2>
                 <div className="text-center my-8">
-                  <div className="text-5xl font-black text-blue-600">297€</div>
-                  <div className="text-2xl text-slate-400 line-through">397€</div>
-                  <div className="inline-block bg-green-100 text-green-700 px-4 py-2 rounded-full font-bold text-sm">25% DESCUENTO</div>
+                  <div className="text-5xl font-black text-blue-600">347€</div>
                 </div>
 
                 <p className="text-lg md:text-xl text-slate-600 leading-relaxed">
@@ -819,7 +817,7 @@ export default function PedroPoliglotaPage() {
                 <CouponCopy />
 
                 <div className="text-sm text-slate-500 mt-4">
-                  Aplica el cupón para ver el precio final de 297€.
+                  Aplica el cupón para ver el precio final de 347€.
                 </div>
 
                 <div className="border-t border-slate-200 my-6"></div>
@@ -832,7 +830,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="checkout_pay_once"
                   >
-                    PAGAR 297€ (1 pago)
+                    PAGAR 347€ (1 pago)
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -841,7 +839,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="checkout_pay_3x"
                   >
-                    PAGAR EN 3 PLAZOS (3×110€)
+                    PAGAR EN 3 PLAZOS (3×125€)
                   </a>
                 </div>
 
@@ -880,7 +878,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-en" data-lang-card="en">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/ingles.jpeg"
+                    src="/images/ingles.jpeg"
                     alt="Curso de Inglés"
                     fill
                     className="object-cover"
@@ -912,7 +910,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_en_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -921,7 +919,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_en_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -930,7 +928,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-de" data-lang-card="de">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/aleman.jpeg"
+                    src="/images/aleman.jpeg"
                     alt="Curso de Alemán"
                     fill
                     className="object-cover"
@@ -962,7 +960,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_de_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -971,7 +969,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_de_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -980,7 +978,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-fr" data-lang-card="fr">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/frances.jpeg"
+                    src="/images/frances.jpeg"
                     alt="Curso de Francés"
                     fill
                     className="object-cover"
@@ -1012,7 +1010,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_fr_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -1021,7 +1019,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_fr_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -1030,7 +1028,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-it" data-lang-card="it">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/italiano.jpeg"
+                    src="/images/italiano.jpeg"
                     alt="Curso de Italiano"
                     fill
                     className="object-cover"
@@ -1062,7 +1060,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_it_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -1071,7 +1069,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_it_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -1080,7 +1078,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-pt" data-lang-card="pt">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/portugues.jpeg"
+                    src="/images/portugues.jpeg"
                     alt="Curso de Portugués"
                     fill
                     className="object-cover"
@@ -1112,7 +1110,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_pt_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -1121,7 +1119,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_pt_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -1130,7 +1128,7 @@ export default function PedroPoliglotaPage() {
               <article className="bg-white border border-slate-200 rounded-2xl p-8 shadow-lg" id="idioma-ru" data-lang-card="ru">
                 <div className="aspect-video rounded-xl border border-blue-100 relative mb-4 overflow-hidden">
                   <Image
-                    src="/pedro-poliglota/images/ruso.jpeg"
+                    src="/images/ruso.jpeg"
                     alt="Curso de Ruso"
                     fill
                     className="object-cover"
@@ -1162,7 +1160,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_ru_once"
                   >
-                    Comprar 297€
+                    Comprar 347€
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
@@ -1171,7 +1169,7 @@ export default function PedroPoliglotaPage() {
                     rel="noopener"
                     data-track="buy_ru_3x"
                   >
-                    Pagar en 3×110€
+                    Pagar en 3×125€
                   </a>
                 </div>
               </article>
@@ -1220,7 +1218,7 @@ export default function PedroPoliglotaPage() {
                 <div className="flex items-center gap-4 mb-6">
                   <div className="w-16 h-16 rounded-full overflow-hidden shadow-lg shadow-blue-500/30 relative">
                     <Image
-                      src="/pedro-poliglota/images/pedro-pg.jpeg"
+                      src="/images/pedro-pg.jpeg"
                       alt="Pedro"
                       fill
                       className="object-cover"
@@ -1290,7 +1288,7 @@ export default function PedroPoliglotaPage() {
                   aria-label="Foto de Pedro"
                 >
                   <Image
-                    src="/pedro-poliglota/images/pedro.jpg"
+                    src="/images/pedro.jpg"
                     alt="Pedro - Políglota que habla 9 idiomas"
                     fill
                     className="object-cover"
