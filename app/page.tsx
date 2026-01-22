@@ -316,6 +316,7 @@ export default function PedroPoliglotaPage() {
                     </svg>
                   </a>
                 </div>
+              </div>
 
               <div className="bg-white/50 backdrop-blur-sm rounded-2xl md:rounded-3xl shadow-2xl border border-white/60 p-4 sm:p-6 md:p-8 hover:shadow-blue-200/50 transition-all duration-500 hover:scale-[1.02] group">
                 <div className="aspect-[3/4] rounded-xl md:rounded-2xl border-2 border-blue-200/50 relative overflow-hidden shadow-inner group-hover:shadow-blue-200 transition-shadow">
@@ -334,14 +335,9 @@ export default function PedroPoliglotaPage() {
           </div>
         </section>
 
-        {/* COUNTDOWN */}
-        <section className="py-16 bg-gradient-to-b from-white to-slate-50">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="bg-gradient-to-br from-slate-50 via-white to-blue-50/30 border-2 border-slate-200/50 rounded-3xl shadow-2xl shadow-slate-200/50 p-10 hover:shadow-blue-200/30 transition-all duration-500 relative overflow-hidden">
-              <div className="absolute top-0 right-0 w-64 h-64 bg-blue-200 rounded-full filter blur-3xl opacity-10" />
-              <CountdownTimer />
-            </div>
-          </div>
+        {/* COUNTDOWN placeholder */}
+        <section className="py-16">
+          <div>Countdown placeholder</div>
         </section>
 
         {/* LANGUAGE SELECTOR */}
