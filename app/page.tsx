@@ -335,11 +335,6 @@ export default function PedroPoliglotaPage() {
           </div>
         </section>
 
-        {/* COUNTDOWN placeholder */}
-        <section className="py-16">
-          <div>Countdown placeholder</div>
-        </section>
-
         {/* LANGUAGE SELECTOR */}
         <section id="idiomas" className="py-20 md:py-32 relative overflow-hidden bg-slate-50">
           <div className="absolute inset-0 bg-gradient-to-b from-slate-50 via-white to-slate-50 -z-10" />
