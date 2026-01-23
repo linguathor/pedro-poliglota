@@ -1507,14 +1507,7 @@ export default function PedroPoliglotaPage() {
                   <span className="text-sm font-semibold">TikTok</span>
                 </a>
               </div>
-              <div className="mt-6 pt-6 border-t border-slate-700">
-                <div className="text-xs text-slate-500 mb-2">
-                  <strong className="text-slate-400">Analítica:</strong> Añade tu pixel/GA4 donde prefieras.
-                </div>
-                <div className="text-xs text-slate-500">
-                  <strong className="text-slate-400">Eventos:</strong> JS básicos incluidos en consola.
-                </div>
-              </div>
+
             </div>
           </div>
           
