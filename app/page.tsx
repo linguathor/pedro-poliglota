@@ -828,6 +828,22 @@ export default function PedroPoliglotaPage() {
                   </a>
                 </div>
 
+                <div className="mt-4 text-center">
+                  <a
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
+                    target="_blank"
+                    rel="noopener"
+                    className="inline-block"
+                    data-track="checkout_special_offer"
+                  >
+                    <div className="text-sm font-black text-slate-900">
+                      Inscríbete ahora <span className="font-normal text-sm text-slate-500">(precio especial de lanzamiento)</span>
+                    </div>
+                    <div className="text-4xl md:text-5xl font-extrabold text-blue-600 -mt-1">347€</div>
+                    <div className="text-sm text-slate-500 line-through mt-1">397€</div>
+                  </a>
+                </div>
+
                 <div className="text-sm text-slate-500 mt-4">
                   Los botones te llevan al checkout en Teachable.
                 </div>
