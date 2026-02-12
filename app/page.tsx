@@ -819,7 +819,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="checkout_pay_3x"
@@ -915,7 +915,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_en_3x"
@@ -965,7 +965,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_de_3x"
@@ -1015,7 +1015,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_fr_3x"
@@ -1065,7 +1065,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_it_3x"
@@ -1115,7 +1115,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_pt_3x"
@@ -1165,7 +1165,7 @@ export default function PedroPoliglotaPage() {
                   </a>
                   <a
                     className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-full font-bold hover:border-blue-600 hover:text-blue-600 transition-all"
-                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6592094"
+                    href="https://pedro-rodriguez-trigo-s-school.teachable.com/purchase?product_id=6608259"
                     target="_blank"
                     rel="noopener"
                     data-track="buy_ru_3x"
